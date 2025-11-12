@@ -2,6 +2,7 @@
 
 
 
-Este README fue editado por Alumno B
+Este README fue editado por ambos alumnos
 
-Este README fue editado por Alumno A
+
+
