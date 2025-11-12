@@ -1,1 +1,6 @@
-# proyecto_colaborativo_git
+# proyecto\_colaborativo\_git
+
+
+
+Este README fue editado por Alumno B
+
